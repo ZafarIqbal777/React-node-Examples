@@ -1,0 +1,9 @@
+20220921	18:38:51	dce3b370-c2f7-4ca8-814e-09dba4659b65	SyntaxError: Unexpected token } in JSON at position 43
+20220921	18:41:34	adf2e439-d637-4bfa-ba26-4a8122eecac3	SyntaxError: Unexpected token , in JSON at position 17
+20220922	19:04:43	eb0797e2-3b67-412f-a6de-eb9a79fe922f	TypeError: req.roles.map is not a function
+20220922	19:16:02	90f9eaaf-0dca-4601-9caf-2d628602cc11	TypeError: req.roles.map is not a function
+20220922	20:42:20	8321a240-508a-4f4a-b383-c217eccd9c8c	TypeError: req.roles.map is not a function
+20220922	21:18:41	224cfb31-b80d-4faa-8868-c49dbc4fca24	TypeError: req.roles.map is not a function
+20220922	21:42:50	d70d735c-d56b-4c0e-920c-749b2b5080de	ReferenceError: result is not defined
+20220922	22:27:08	7b760211-1f5c-4db3-b7b5-8dfdc53cdae3	ReferenceError: result is not defined
+20220923	09:59:19	edf8033e-32b0-45c6-8096-c9ece2e3fd04	ReferenceError: result is not defined
